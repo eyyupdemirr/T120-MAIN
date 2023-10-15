@@ -17,7 +17,7 @@ public class C01_VariableOlusturma {
         sayi=sayi+10;
         System.out.println(sayi);
 
-
+        int sayi1,sayi2, sayi3,sayi4;
 
 
 
